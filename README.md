@@ -2,6 +2,13 @@
 
 An event-driven, serverless data transformation pipeline using **AWS Lambda**, **Amazon S3**, and **CloudWatch Logs**. This project automatically processes uploaded CSV files and saves a cleaned, transformed version back to S3 — all without provisioning servers.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/zain-ul-abideen-alvi-32b3b6275/">
+    <img src="https://raw.githubusercontent.com/zainalvi110/Automating-S3-to-Lambda-Triggers-with-Event-Driven-Architecture/main/banner.png" alt="AWS Lambda S3 ETL Pipeline" width="100%" />
+  </a>
+</p>
+
+
 ## 📌 How It Works
 
 When a new `.csv` file is uploaded to the `Input-data/` folder in an S3 bucket:
